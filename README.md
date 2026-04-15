@@ -30,4 +30,4 @@ Feature requests, issues, pull requests and questions are welcome.
 
 ## Credits 😎🤓
 
-virtz(owner of repo): Mobile Developer [( github )](https://github.com/virtz)
+virtz(owner of repo): Mobile Developer [( github )](https://github.com/Danedie04)
